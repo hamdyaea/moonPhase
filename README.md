@@ -1,4 +1,6 @@
-# moonPhase
+# moonPhase  
+![Awesome](awesome.svg) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/blac
+k) ![Python](python.png)   
 Downloads all 8762 photos of the moon from a NASA website and uses them to create a fluid animation.
 
 See [here for an introduction/tutorial](https://nicholasfarrow.com/Creating-a-Moon-Animation-Using-NASA-Images-and-Python/).
